@@ -12,7 +12,7 @@ Then I measured how much water could fit in each container using a 250ml measuri
 
 ##  Model Assumptions
 ### Scatterplot without Least Squares regression line
-[Figure 1.1](pics/figure1.1.png)
+![Figure 1.1](pics/figure1.1.png)
 
 > Construct a scatterplot of the data without the least squares regression line.  Does the data appear to satisfy the criterion for a linear regression?
 
@@ -23,8 +23,8 @@ There appears to be a linear relationship between the x's and y's. The variance 
 I believe the response variable was collected independently from each other. I made sure that I did not give my husband the containers in any particular size order, and I also made sure that there was never more than one container in his view at the same time.
 
 ### Residuals
-[Figure 1.2](pics/figure1.2.png)
-[Figure 1.3](pics/figure1.3.png)
+![Figure 1.2](pics/figure1.2.png)
+![Figure 1.3](pics/figure1.3.png)
 > Construct a histogram of the residual values associated with the simple linear regression model and construct a normal probability plot of the residual errors.  Based on these  diagnostic  plots,  does  it  appear  that  the  normality  assumption  for  the  error term in the model is satisfied?
 
 Yes, I would say the residuals are roughly linear. The histogram has a rough bell shape and the normal probability plot is pretty linear as well.
